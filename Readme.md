@@ -17,10 +17,10 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-264683 | Nikitha |One can add item| not able to    | So many not   |     0       |    0    
-       | Anasi   |Delete or edit  |write test cases| yet resolved  |             |     
+PS No.  |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+------- |---------|----------------|----------------|---------------|-------------|-------------- 
+`264683`| Nikitha |One can add item| not able to    | So many not   |     0       |    0    
+  ` `   | Anasi   |Delete or edit  |write test cases| yet resolved  |     0       |    0 
 
 ## Challenges Faced and How Was It Overcome
 
